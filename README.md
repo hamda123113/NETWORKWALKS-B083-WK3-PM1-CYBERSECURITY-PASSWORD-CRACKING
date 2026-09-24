@@ -439,11 +439,7 @@ good-luck
 <div align="center">
 
 ## **Hamda Raza**
-
-**Cybersecurity Professional B083**
-
-**Cybersecurity & Ethical Hacking**
-
+Cybersecurity intern at
 **NetworkWalks**
 
 ### 🔗 LinkedIn
