@@ -460,6 +460,14 @@ Do not use these tools to:
 > ⚠️ **Always obtain explicit permission before performing security testing against systems, files, accounts, or networks that you do not own.**
 
 ---
+## 📌 Project Information
+
+| Information | Details |
+|---|---|
+| **Program Name** | Cybersecurity at Networkwalks |
+| **Week** | 03 |
+| **Project** | Password cracking |
+
 **
 # 👤 Author**
 
@@ -467,13 +475,7 @@ Do not use these tools to:
 
 ## **Hamda Raza**
 
-**Cybersecurity Professional B083**
-
-**Cybersecurity & Ethical Hacking**
-
-**Networkwalks**
-
-### 🔗 LinkedIn
+ 🔗 LinkedIn
 
 [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/hamda-rashid-67a157356/)
 
