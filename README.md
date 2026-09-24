@@ -93,7 +93,7 @@ The practical was performed inside a virtualized Kali Linux environment.
 
 ---
 
-# 🪜 Practical Procedure
+#  Practical Procedure
 
 ## Step 1. Prepare the Kali Linux Environment
 
@@ -356,24 +356,6 @@ Password Required
 ![PDF Password Prompt](12.png)
 
 ---
-pdf unlocked successfully.
-
-## ✅ Final Practical Result
-
-```text
-┌─────────────────────────────────────┐
-│       PASSWORD RECOVERY RESULT       │
-├─────────────────────────────────────┤
-│ Target File: My Locked PDF1.pdf     │
-│ Tool: John the Ripper                │
-│ GUI: Johnny                          │
-│ Hash File: hash1.txt                 │
-│ Recovered Password: good-luck        │
-│ Status: PDF Successfully Unlocked    │
-└─────────────────────────────────────┘
-```
-
----
 # 💡 What I Learned
 
 Through this practical, I learned how to use **John the Ripper (JTR)** and **Johnny GUI** to perform password-recovery testing on a password-protected PDF in a controlled cybersecurity lab.
@@ -447,13 +429,14 @@ The practical result showed:
 ```text
 Recovered Password:
 good-luck
-# 🛡️ Security & Ethical Use
+
+**# 🛡️ Security & Ethical Use**
 
 This project was performed as a **controlled cybersecurity and ethical-hacking laboratory exercise**.
 
 John the Ripper and similar security tools should only be used against systems, files, accounts, or networks where proper authorization has been granted.
 
-### ✅ Authorized Use
+**### ✅ Authorized Use**
 
 - Cybersecurity education
 - Personal cybersecurity labs
@@ -463,7 +446,7 @@ John the Ripper and similar security tools should only be used against systems, 
 - Training environments
 - Files and systems owned by the tester
 
-### ❌ Unauthorized Use
+**### ❌ Unauthorized Use**
 
 Do not use these tools to:
 
@@ -477,12 +460,12 @@ Do not use these tools to:
 > ⚠️ **Always obtain explicit permission before performing security testing against systems, files, accounts, or networks that you do not own.**
 
 ---
-
-# 👤 Author
+**
+# 👤 Author**
 
 <div align="center">
 
-## **Waqas Karim**
+## **Hamda Raza**
 
 **Cybersecurity Professional B083**
 
