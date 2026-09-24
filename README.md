@@ -415,60 +415,41 @@ The attack was allowed to continue until the password was recovered.
 
 The practical result showed:
 
-```text
 Recovered Password:
 good-luck
 
-**# 🛡️ Security & Ethical Use**
-
-This project was performed as a **controlled cybersecurity and ethical-hacking laboratory exercise**.
-
-John the Ripper and similar security tools should only be used against systems, files, accounts, or networks where proper authorization has been granted.
-
-**### ✅ Authorized Use**
-
-- Cybersecurity education
-- Personal cybersecurity labs
-- Password-security testing
-- Authorized penetration testing
-- Security research
-- Training environments
-- Files and systems owned by the tester
-
-**### ❌ Unauthorized Use**
-
-Do not use these tools to:
-
-- Access someone else's files
-- Crack unauthorized accounts
-- Steal credentials
-- Bypass security controls without permission
-- Access confidential information
-- Attack systems without authorization
-
-> ⚠️ **Always obtain explicit permission before performing security testing against systems, files, accounts, or networks that you do not own.**
-
----
-## 📌 Project Information
+# 📌 Project Information
 
 | Information | Details |
 |---|---|
 | **Program Name** | Cybersecurity at Networkwalks |
 | **Week** | 03 |
-| **Project** | Password cracking |
+| **Project** | Password Cracking |
+| **Primary Tool** | John the Ripper |
+| **GUI Tool** | Johnny |
+| **Operating System** | Kali Linux |
+| **Target** | Password-Protected PDF |
+| **Hash File** | `hash1.txt` |
+| **Lab Environment** | Controlled Cybersecurity Lab |
 
-**
-# 👤 Author**
+---
+
+# 👤 Author
 
 <div align="center">
 
 ## **Hamda Raza**
 
- 🔗 LinkedIn
+**Cybersecurity Professional B083**
 
-[https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/hamda-rashid-67a157356/)
+**Cybersecurity & Ethical Hacking**
+
+**NetworkWalks**
+
+### 🔗 LinkedIn
+
+[LinkedIn Profile](https://www.linkedin.com/in/hamda-rashid-67a157356/)
 
 </div>
-
 
 
