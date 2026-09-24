@@ -163,8 +163,6 @@ My Locked PDF1.pdf
 
 ![Protected PDF](3.png)
 
-The practical task specifies recovering the password of the attached `My Locked PDF1.pdf` using JTR John and JTR Johnny. :contentReference[oaicite:1]{index=1}
-
 ---
 
 ### Step 5. Open the PDF Hash Extractor
@@ -197,7 +195,6 @@ Generated PDF Hash
 
 ![PDF Hash Extractor](4.png)
 ![PDF Hash Extractor](5.png)
-The practical shows the encrypted PDF being uploaded to the hash website to obtain its hash. :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -255,9 +252,6 @@ Kali Linux VM
       ▼
 Kali Linux Desktop
 ```
-
-The practical evidence shows the hash file being transferred to the Kali Linux VM. :contentReference[oaicite:4]{index=4}
-
 ![Transfer hash1.txt](8.png)
 
 ---
@@ -308,8 +302,6 @@ Password Recovery
 
 ![Start New Attack](11.png)
 
-The practical explicitly documents the **Start New Attack** step. :contentReference[oaicite:6]{index=6}
-
 ---
 
 ### Step 11. Wait for Password Recovery
@@ -332,10 +324,7 @@ Recovered Password
 
 ![Password Recovery](11.png)
 
-The project instructions note that password recovery may take some time depending on computer speed and password complexity. :contentReference[oaicite:7]{index=7}
-
 ---
-
 
 ### Step 12. Open the Protected PDF
 
